@@ -92,6 +92,8 @@ not much here
 
 The `3ac45ca05705d39ed27d7baa8b70ecd560b69902.php` is suspicious as it have 50 bytes but only 7 bytes returned from server. Maybe the flag is there.
 
+### Wonders of PHP: empty("0") == true
+
 I crafted this payload to read the file and get the flag.
 ```
 ![](0:/../secret_report/3ac45ca05705d39ed27d7baa8b70ecd560b69902.php)
